@@ -1,4 +1,4 @@
-const storage = [{
+const user = [{
     name:"user1",
     email:"user1@gmail.com",
     phone:9876543210,
@@ -8,4 +8,6 @@ const storage = [{
         state:"Odisha",
         zipCode:751002
     }
-}]
+}];
+
+export default user;
