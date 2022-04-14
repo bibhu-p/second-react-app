@@ -77,7 +77,6 @@ function App() {
   const formSubmit = (event) => {
     console.log('create function------>>>>>')
     event.preventDefault();
-    // console.log(addFormData);
 
     const newUser = {
       name: addFormData.name,
